@@ -1,0 +1,11 @@
+DONT NOT USE AS A SCRIPT DOCUMENTATION
+CameraMovement:
+[wasd] moves the camera on the x and y axis
+[qe] rolls the camera around the z axis
+SceneChanger:
+[12345] act as a scene changers allowing you to swap between scenes
+PullScriptTest:
+[f] moves the object towards the camera
+[b] moves the object away from the camera
+SpawnBall:
+[r] moves a hidden ball to a child object infront of the camera 

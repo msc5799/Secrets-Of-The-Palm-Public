@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/OutsideTowerScene/OutsideTowerScene.unity
+    guid: 81ee5c850529eca4b8f11700573892ed
+  - enabled: 1
+    path: Assets/Scenes/DemoLevel.unity
+    guid: 344ab3383a542904d948961e6fe740d9
+  - enabled: 0
+    path: Assets/Scenes/HefnerLvl_2.unity
+    guid: c2de44c21039c56479dc6fc0644a8961
+  - enabled: 0
+    path: Assets/Scenes/level 1.unity
+    guid: 3cd0092873458b04ca4804a9fb594c9c
+  - enabled: 0
+    path: Assets/Scenes/top floor.unity
+    guid: 58d700144a780034e895177d03cf02ee
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c15149af433522c44aa55761f9fc4563, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d807601e26e7d4c468310b921e2ab914, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fafece9a24dad8d4086c09f39d595491, type: 2}
+  m_UseUCBPForAssetBundles: 0
